@@ -2,5 +2,6 @@
 ## I'm Marawan 
 
 ```
-![Visitor Count](https://profile-counter.glitch.me/Marawan6/count.svg)```
-<!--
+![Visitor Count](https://profile-counter.glitch.me/Marawan6/count.svg)
+```
+
