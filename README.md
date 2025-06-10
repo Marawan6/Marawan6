@@ -64,6 +64,4 @@ $ find /socials -type link
 
 ### `> logs/end`
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3ov9jExd1X1c3z3P8w/giphy.gif" width="400" alt="Terminal outro animation"/>
-</p>
+<p align="center"> <img src="https://i.imgur.com/oA7wN.jpg" width="400" alt="Terminal outro animation"/> </p> ```
