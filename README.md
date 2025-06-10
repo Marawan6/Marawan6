@@ -51,7 +51,6 @@
 
 ---
 
-### `> whoami`
 
 ```sh
 $ echo "Hello, friend."
