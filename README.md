@@ -40,6 +40,3 @@ ls -l /skills
 $ mail -s "INITIATE" marawan.othman06@gmail.com
 $ open [linkedin.com/in/marawan-mohamed-652517320](linkedin.com/in/marawan-mohamed-652517320)
 
-&lt;div align="center">
-
-&lt;/div>
