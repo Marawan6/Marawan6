@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/oOTTyHRHj0HYY/giphy.gif](https://i.pinimg.com/736x/53/bf/53/53bf53eb8b91d0990ddc32cbc30becee.jpg" width="600px"/>
+  <img src="https://i.pinimg.com/736x/53/bf/53/53bf53eb8b91d0990ddc32cbc30becee.jpg" width="600px"/>
 </div>
 
 ### `> whoami`
