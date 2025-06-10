@@ -12,3 +12,25 @@ $ whois marawan6
 > System.out.println("CS Student at init_5.fve(Nahda University)");
 > Status: Deconstructing corporate firewalls and building the new world on the ashes of the old.
 > Mission: Find the exploits in the system. Are you a 1 or a 0?
+ls -l /skills
+# ARSENAL
+# -----------
+# Languages
+-rwx--x--x 1 user root 4096 JUN 10 18:47 Python
+-rwx--x--x 1 user root 4096 JUN 10 18:47 Java
+-rwx--x--x 1 user root 4096 JUN 10 18:47 SQL
+-rwx--x--x 1 user root 4096 JUN 10 18:47 JavaScript
+
+# Backend_Frameworks
+-rwx--x--x 1 user root 4096 JUN 10 18:47 Node.js
+-rwx--x--x 1 user root 4096 JUN 10 18:47 Django
+
+# Security_Toolkit
+-rwx--x--x 1 user root 4096 JUN 10 18:47 Metasploit
+-rwx--x--x 1 user root 4096 JUN 10 18:47 Nmap
+-rwx--x--x 1 user root 4096 JUN 10 18:47 Burp Suite
+
+# Other
+-rwx--x--x 1 user root 4096 JUN 10 18:47 Linux
+-rwx--x--x 1 user root 4096 JUN 10 18:47 Docker
+-rwx--x--x 1 user root 4096 JUN 10 18:47 Git
