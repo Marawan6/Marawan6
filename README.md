@@ -17,23 +17,14 @@ ls -l /skills
 # -----------
 # Languages
 -rwx--x--x 1 user root 4096 JUN 10 18:47 Python
--rwx--x--x 1 user root 4096 JUN 10 18:47 Java
--rwx--x--x 1 user root 4096 JUN 10 18:47 SQL
--rwx--x--x 1 user root 4096 JUN 10 18:47 JavaScript
-
-# Backend_Frameworks
--rwx--x--x 1 user root 4096 JUN 10 18:47 Node.js
--rwx--x--x 1 user root 4096 JUN 10 18:47 Django
-
-# Security_Toolkit
--rwx--x--x 1 user root 4096 JUN 10 18:47 Metasploit
--rwx--x--x 1 user root 4096 JUN 10 18:47 Nmap
--rwx--x--x 1 user root 4096 JUN 10 18:47 Burp Suite
+-rwx--x--x 1 user root 4096 JUN 10 18:47 C++
+-rwx--x--x 1 user root 4096 JUN 10 18:47 MySQL
+-rwx--x--x 1 user root 4096 JUN 10 18:47 PHP
+-rwx--x--x 1 user root 4096 JUN 10 18:47 HTML5 & CSS
 
 # Other
 -rwx--x--x 1 user root 4096 JUN 10 18:47 Linux
--rwx--x--x 1 user root 4096 JUN 10 18:47 Docker
--rwx--x--x 1 user root 4096 JUN 10 18:47 Git
+-rwx--x--x 1 user root 4096 JUN 10 18:47 Microsoft Office
 
 > find_me
 # Are you in?
