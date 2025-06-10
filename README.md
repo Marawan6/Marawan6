@@ -64,4 +64,4 @@ $ find /socials -type link
 
 ### `> logs/end`
 
-<p align="center"> <img src="https://64.media.tumblr.com/0c348e8631fe0f666a43023383e5a9c9/192dd139c28c6c27-4d/s540x810/73a736ce87da1190845dfb15bb7b281826c24c47.gifv" width="400" alt="Terminal outro animation"/> </p> ```
+<p align="center"> <img src="https://64.media.tumblr.com/0c348e8631fe0f666a43023383e5a9c9/192dd139c28c6c27-4d/s540x810/73a736ce87da1190845dfb15bb7b281826c24c47.gifv" width="400" alt="Terminal outro animation"/> </p> 
