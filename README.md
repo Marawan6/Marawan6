@@ -34,3 +34,12 @@ ls -l /skills
 -rwx--x--x 1 user root 4096 JUN 10 18:47 Linux
 -rwx--x--x 1 user root 4096 JUN 10 18:47 Docker
 -rwx--x--x 1 user root 4096 JUN 10 18:47 Git
+
+> find_me
+# Are you in?
+$ mail -s "INITIATE" marawan.othman06@gmail.com
+$ open [linkedin.com/in/marawan-mohamed-652517320](linkedin.com/in/marawan-mohamed-652517320)
+
+&lt;div align="center">
+
+&lt;/div>
