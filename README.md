@@ -1,6 +1,6 @@
 ### `> whoami`
 
-```sh
+
 $ echo "Hello, friend."
 Hello, friend.
 
@@ -8,7 +8,8 @@ $ ./Marawan --info
 > System.out.println("CS Student at Nahda University");
 > Status: Deconstructing corporate firewalls and building the new world on the ashes of the old.
 > Mission: Find the exploits in the system. Are you a 1 or a 0?
-> arsenal
+
+### `arsenal`
 $ ls -l /skills
 
 # LANGUAGES
