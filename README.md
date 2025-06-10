@@ -6,7 +6,7 @@ Hello, friend.
 
 $ ./Marawan --info
 > System.out.println("CS Student at Nahda University");
-> Status: Deconstructing corporate firewalls and building the new world on the ashes of the old.
+> Status: Building and securing digital systems.
 > Mission: Find the exploits in the system. Are you a 1 or a 0?
 ```
 
