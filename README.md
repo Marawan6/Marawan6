@@ -5,7 +5,7 @@ $ echo "Hello, friend."
 Hello, friend.
 
 $ ./Marawan --info
-> System.out.println("CS Student at Nahda University");
+> print("CS Student at Nahda University")
 > Status: Building and securing digital systems.
 > Mission: Find the exploits in the system. Are you a 1 or a 0?
 ```
@@ -20,34 +20,31 @@ $ ls -l /skills
 # LANGUAGES
 -rwx--x--x 1 user root 4096 JUN 10 18:47 Python
 -rwx--x--x 1 user root 4096 JUN 10 18:47 C++
--rwx--x--x 1 user root 4096 JUN 10 18:47 MySQL
--rwx--x--x 1 user root 4096 JUN 10 18:47 PHP
+-rwx--x--x 1 user root 4096 JUN 10 18:47 SQL
 -rwx--x--x 1 user root 4096 JUN 10 18:47 HTML5 & CSS
 
 # TOOLS & OTHER
 -rwx--x--x 1 user root 4096 JUN 10 18:47 Linux
--rwx--x--x 1 user root 4096 JUN 10 18:47 Microsoft Office
+-rwx--x--x 1 user root 4096 JUN 10 18:47 Git & GitHub
 ```
 
 ---
 
 ### `> executing payload...`
 
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Hacker animation"/>
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Hacker animation"/> </p>
 
 ---
 
 ### `> system logs`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marawan6&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marawan6&theme=radical" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marawan6&layout=compact&theme=radical" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Marawan6&show_icons=true&theme=radical" />
+
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Marawan6&theme=radical" />
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marawan6&layout=compact&theme=radical" /> </p>
 
 ---
 
@@ -64,4 +61,4 @@ $ find /socials -type link
 
 ### `> logs/end`
 
-<p align="center"> <img src="https://64.media.tumblr.com/0c348e8631fe0f666a43023383e5a9c9/192dd139c28c6c27-4d/s540x810/73a736ce87da1190845dfb15bb7b281826c24c47.gifv" width="400" alt="Terminal outro animation"/> </p> 
+<p align="center"> <img src="https://64.media.tumblr.com/0c348e8631fe0f666a43023383e5a9c9/192dd139c28c6c27-4d/s540x810/73a736ce87da1190845dfb15bb7b281826c24c47.gifv" width="400" alt="Terminal outro animation"/> </p>
