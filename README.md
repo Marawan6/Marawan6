@@ -61,4 +61,4 @@ $ find /socials -type link
 
 ### `> logs/end`
 
-<p align="center"> <img src="https://pin.it/2qcYihxS3" width="400" alt="Terminal outro animation"/> </p>
+<p align="center"> <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGwyNG05ZW8yanlpaGwwdGN6c3E4b2VjdnNqa3kxOGd1bWlwcWQ4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11pIIEAHWERuhi/giphy.gif" width="400" alt="Terminal outro animation"/> </p>
