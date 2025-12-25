@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://cdn.dribbble.com/userupload/25595874/file/original-69b287b18da7c885139947023573dd20.gif" width="400" alt="Intro animation"/> </p>
 
-### `> whoami`>
+### `> whoami`
 
 ```sh
 $ echo "Hello, friend."
