@@ -55,7 +55,7 @@ $ find /socials -type link
 ```
 
 📫 Email: `marawan.othman06@gmail.com`  
-🔗 LinkedIn: (https://www.linkedin.com/in/marawan-othman)
+🔗 LinkedIn: [https://www.linkedin.com/in/marawan-othman](https://www.linkedin.com/in/marawan-othman)
 
 ---
 
