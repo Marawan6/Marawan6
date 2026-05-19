@@ -7,7 +7,7 @@ $ echo "Hello, friend."
 Hello, friend.
 
 $ ./Marawan --info
-> print("CS Student at Nahda University")
+> print("CS Student @ NUB | Aspiring Cloud Security Engineer")
 > Status: Building and securing digital systems.
 > Mission: Find the exploits in the system. Are you a 1 or a 0?
 ```
@@ -40,13 +40,9 @@ $ ls -l /skills
 
 ### `> system logs`
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Marawan6&show_icons=true&theme=radical" />
-
-
+<p align="center"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Marawan6&theme=radical" />
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marawan6&layout=compact&theme=radical" /> </p>
+</p>
 
 ---
 
